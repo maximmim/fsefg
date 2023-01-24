@@ -7,7 +7,7 @@ from aiogram.utils.emoji import emojize
 from time import sleep
 import time
 import yt_download as yt
-
+import pkg_resources
 
 
 
